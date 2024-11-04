@@ -1,0 +1,7 @@
+streamlit
+happytransformer
+nltk
+textblob
+transformers
+sentencepiece
+termcolor
